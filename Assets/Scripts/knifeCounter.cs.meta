@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d8dfb74ece93f0a499a10b31766029ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - knifeSprite: {fileID: 173249951520839301, guid: 01d5e93578b3318449da6ec4e3006bcc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

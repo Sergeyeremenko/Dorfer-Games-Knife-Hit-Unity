@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f06ed5f9a7142b49aee63c750a2e789
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - knifePrefab: {fileID: 173249951520839301, guid: 01d5e93578b3318449da6ec4e3006bcc, type: 3}
+  - wheelSpawnPosition: {instanceID: 0}
+  - knifeSpawnPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
